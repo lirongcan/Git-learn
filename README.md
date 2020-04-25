@@ -10,3 +10,8 @@ Following :你关注的人
 
 Contributions :你在 GitHub 的使用或贡献情况,每个方格代表一个日期,贡献程度随颜色加深而递增
 
+
+
+文字超链接:[百度](https://www.baidu.com)
+
+图片超链接：![百度中的一张图片](https://www.baidu.com/...)
