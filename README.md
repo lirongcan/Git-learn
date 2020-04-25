@@ -36,3 +36,16 @@ Publish ：将本地的更新同步到 GitHub 中
 对某一文件点击branch，master是默认的主分支，可以在文本框中写入名字创建一个新的分支，在该分支中的修改不会直接同步到主分支的修改中
 最后在新分支修改了该文件以后
 ![](/picture_src/p1.png)
+
+![](/picture_src/p2.png)
+
+![](/picture_src/p3.png)
+
+![](/picture_src/p4.png)
+
+![](/picture_src/p5.png)
+
+![](/picture_src/p6.png)
+
+![](/picture_src/p7.png)
+
